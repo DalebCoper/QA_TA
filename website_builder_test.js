@@ -5,7 +5,7 @@ selector_cost_infin_builder = '.b-plans-pillar__item_type_infinite.i-analytics.i
 selector_order_button = '.b-plans-pillar__item_type_infinite.i-analytics.i-analytics_event_google.i-analytics_event_yandex .b-plans-pillar__details-indent.l-align_center';
 selector_adding_domain_button = '.ds-textfield.ds-input.ds-textfield_size_m.ds-textfield_state_defaul';
 selector_buying_domain_button = '.choice-list .choice-item:first-child .domain-select-item';
-selector_buying_to_desapear = '.choice-list .choice-item:first-child .domain-select-item .ds-loader__loader.ds-loader__loader_color_default';
+selector_buying_to_hide = '.choice-list .choice-item:first-child .domain-select-item .ds-loader__loader.ds-loader__loader_color_default';
 selector_cost_of_ru_zone_domain = '.domain-in-order-price__final';
 selector_cost_total = '.order-footer-price__price';
 

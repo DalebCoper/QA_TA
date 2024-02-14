@@ -1,4 +1,4 @@
-.venv
+/.venv
 /node_modules
 /output
-.idea
+/.idea
